@@ -16,7 +16,7 @@ html, body {
 }
 
 .logo img{
-    width: 40%;
+    width: 50%;
     right: auto;
     /*display: block;
     top: 20px;
@@ -28,7 +28,7 @@ html, body {
     display: block;
     font-size: 16pt;
     /*color: #aacc00;*/
-    color: red;
+    color: blue;
     border: 1px solid #777;
     border-radius: 15px;
     width: 28%;
